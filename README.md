@@ -95,9 +95,9 @@ Python-Learning/
 
 ## 🚀 How to Use
 1. Clone the repository  
-   ```bash
+   ```
    git clone https://github.com/your-username/python-learning.git
-
+  ```
 Python-Learning/
 ├── Basics/
 ├── Strings/
@@ -114,7 +114,7 @@ Python-Learning/
 ├── Mega_Projects/
 └── README.md
 
-
+  ```
 
 ## 🎯 Purpose of This Repository
 - Build strong Python fundamentals  
