@@ -61,9 +61,10 @@ Each chapter includes **practice sets** to:
 
 These projects help understand **real-world Python applications** and improve portfolio value.
 
----
+-----
 
 ## 📂 Repository Structure
+```
 Python-Learning/
 ├── Basics/
 ├── Strings/
@@ -80,9 +81,9 @@ Python-Learning/
 ├── Mega_Projects/
 └── README.md
 
+```
+-----
 
-
----
 
 ## 🎯 Purpose of This Repository
 - Build strong Python fundamentals  
