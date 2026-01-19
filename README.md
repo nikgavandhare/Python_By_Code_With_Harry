@@ -148,5 +148,6 @@ After completing this repository, you will be able to:
 - Create real-world Python projects confidently
 
 ## 👤 Author
-Nikita Tatyaso Gaondhare
-Python Learner | Aspiring Data Analyst
+Nikita Gaondhare
+Vishal Thosar
+
