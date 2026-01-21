@@ -136,6 +136,17 @@ Python-Learning/
 
 5. Build and enhance projects
 
+
+## 📚 Learning Reference & Credits
+
+This repository is built by learning Python from the following high-quality resource:
+
+🎥 **Python Programming Tutorial – Code With Harry (YouTube)**  
+👉 https://www.youtube.com/watch?v=UrsmFxEIp5k&list=LL&index=3
+
+All examples, practice sets, and projects in this repository are self-implemented for learning, practice, and portfolio purposes.
+
+
 ## 🌟 Learning Outcome
 After completing this repository, you will be able to:
 
