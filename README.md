@@ -1,4 +1,4 @@
-# Python_By_Code_With_Harry
+# Python
 Python learning collaboration
 
 # 🐍 Python Programming – Complete Learning Repository
@@ -161,5 +161,5 @@ After completing this repository, you will be able to:
 ## 👤 Author
 Nikita Gaondhare
 
-Vishal Thosar
+
 
